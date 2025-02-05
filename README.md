@@ -27,7 +27,7 @@ SciCo welcomes researchers, developers, and enthusiasts to contribute to our pro
 - Attend or organize SciCo-sponsored events.
 
 ## Contact Us
-For more information, visit our website or reach out via email. We look forward to building a robust and open scientific computing ecosystem together!
+For more information reach out via email. We look forward to building a robust and open scientific computing ecosystem together!
 
 Email: Nikolaos (Nikos) Cheimarios - n.cheimarios@gmail.com
 
